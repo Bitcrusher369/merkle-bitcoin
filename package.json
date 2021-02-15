@@ -17,7 +17,7 @@
         "email": "jorgezaccaro@gmail.com"
     },
     "dependencies": {
-        "async": "^1.2.1"
+        "async": "latest"
     },
     "license": "MIT"
 }
